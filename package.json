@@ -1,0 +1,27 @@
+{
+  "name": "dharmesh",
+  "version": "1.0.0",
+  "description": "NodeJs mongoDb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkvasani/node-mongo.git"
+  },
+  "keywords": [
+    "NodeJs",
+    "MongoDb",
+    "Getting",
+    "Stated",
+    "with",
+    "NodeJs"
+  ],
+  "author": "Dharmesh Vasani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkvasani/node-mongo/issues"
+  },
+  "homepage": "https://github.com/dkvasani/node-mongo#readme"
+}
